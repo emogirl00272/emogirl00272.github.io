@@ -1,13 +1,13 @@
 # Site settings
-title: Identity
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Identity theme by HTML5 UP.
+title: Emogirl cannibal
+email: emogirl00272@gmail.com
+description: My homepage. I'm not true emokid, but true coder!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://emogirl00272.github.io" # the base hostname & protocol for your site
 
 # Identity
-your-name: Jane Doe
-your-title: Senior Psychonautics Engineer
+your-name: Konkin Ratmir
+your-title: DC Engineer
 
 # Social settings
 email: emogirl00272@gmail.com
